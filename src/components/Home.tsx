@@ -69,7 +69,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-game-dark flex flex-col items-center justify-center p-8">
       <h1 className="text-5xl font-bold text-neon-cyan mb-2 tracking-tight">
-        キーボード練習ゲーム
+        もじポン！
       </h1>
       <p className="text-gray-400 mb-8">楽しくタイピングを覚えよう！</p>
 
